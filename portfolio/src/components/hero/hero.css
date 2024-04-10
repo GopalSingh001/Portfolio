@@ -1,0 +1,52 @@
+*{
+     margin: 0;
+     padding: 0;
+
+}
+.container{
+    background: #FFD4D0;
+    height:auto;
+    padding: 40px 0px 0px 0px;
+    gap: 32px;
+    opacity: 0px;
+    
+}
+.background-circle{
+    width: 146px;
+height: 146px;
+gap: 0px;
+opacity: 0px;
+background: #FC3314;
+border-radius: 50%;
+position: absolute;
+left: 29%;
+top: -90px;
+}
+.Hero-section{
+    display: flex;
+    /* flex-direction:row; */
+   width: 100%;
+  height: auto;
+  padding-top: 100px;
+  /* box-sizing: border-box; */
+  justify-content:space-between;
+  
+   
+}
+.left{
+    /* background-color: rgb(131, 96, 96); */
+    height:auto;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+}
+.right{
+    /* background-color: rgb(131, 157, 131); */
+    height:auto;
+    width: 50%;
+     
+    /* position: relative; */
+    
+    
+}

@@ -1,0 +1,21 @@
+.about-section{
+height: auto;
+padding: 64px 188px 80px 188px;
+gap: 32px;
+opacity: 0px;
+background: #1F1F1F;
+position: relative;
+overflow: hidden;
+}
+.about-circle{
+    width: 146px;
+    height: 146px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FC3314;
+    border-radius: 50%;
+    position: absolute;
+    left: 45%;
+    bottom: -80px;
+
+}
